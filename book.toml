@@ -1,0 +1,6 @@
+[book]
+authors = ["efan.ge"]
+language = "en"
+multilingual = false
+src = "src"
+title = "quick_note"
